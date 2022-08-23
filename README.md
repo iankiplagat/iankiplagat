@@ -5,7 +5,7 @@
 
 <p> I'm Ian from Kenya, and I'm a sophomore at Dartmouth College pursuing a major in Computer Science and a minor in Human-Centered Design with broad interests in Software Development, Product Management, Design, Entrepreneurship, Cloud Development, Finance, and Investment Banking.</p>
 
-<h3 align="left">Updates</h3>
+<h3 align="left">Updates:</h3>
 
 - 🌱 I’m currently learning **C**
 
