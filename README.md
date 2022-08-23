@@ -1,6 +1,6 @@
 ### Hi there 👋, Ian Kiplagat
 #### Design and Development
-![Design and Development](https://live.staticflickr.com/65535/52306105680_25a733ab90_h.jpg)
+![Design and Development](https://github.com/iankiplagat/iankiplagat/blob/master/iankiplagat.jpeg)
 
 I am a sophomore at Dartmouth College pursuing a major in Computer Science and a minor in Human-Centered Design with broad interests in Software Development, Product Management, Design, Entrepreneurship, Cloud Development, Finance, and Investment Banking.
 
