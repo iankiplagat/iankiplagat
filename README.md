@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ian Kiplagat</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-<p I'm Ian from Kenya, and I'm a sophomore at Dartmouth College pursuing a major in Computer Science and a minor in Human-Centered Design with broad interests in Software Development, Product Management, Design, Entrepreneurship, Cloud Development, Finance, and Investment Banking.</p>
+<p> I'm Ian from Kenya, and I'm a sophomore at Dartmouth College pursuing a major in Computer Science and a minor in Human-Centered Design with broad interests in Software Development, Product Management, Design, Entrepreneurship, Cloud Development, Finance, and Investment Banking.</p>
 
 <h3 align="left">Updates</h3>
 
@@ -28,5 +28,5 @@
 
 <p></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iankiplagat&show_icons=true&locale=en" alt="iankiplagat" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iankiplagat&show_icons=true&locale=en" alt="iankiplagat" /></p>
 
