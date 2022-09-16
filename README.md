@@ -7,7 +7,7 @@
 
 <h3 align="left">Updates:</h3>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C** and working as a CS1 TA at Dartmouth
 
 - 👨‍💻 All of my projects are available at [iankiplagat](https://github.com/iankiplagat)
 
