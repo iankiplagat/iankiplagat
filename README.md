@@ -3,17 +3,13 @@
 <h1 align="center">Hi 👋, I'm Ian Kiplagat</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-<p> I'm Ian from Kenya, and I'm a sophomore at Dartmouth College pursuing a major in Computer Science and a minor in Human-Centered Design with broad interests in Software Development, Product Management, Design, Entrepreneurship, Cloud Development, Finance, and Investment Banking.</p>
+<p> I'm Ian from Kenya, and I'm a junior at Dartmouth College pursuing a major in Computer Science and Digital Arts and a minor in Human-Centered Design with broad interests in Software Development, Product Management, Design, Entrepreneurship, Cloud Development, Finance, Investment Banking, and Psychology.</p>
 
 <h3 align="left">Updates:</h3>
 
-- 🌱 I’m currently learning **C** and working as a CS1 TA at Dartmouth
+- 🌱 Returning SDE intern with AWS
 
-- 👨‍💻 All of my projects are available at [iankiplagat](https://github.com/iankiplagat)
-
-- 💬 Ask me about **Python, Java, JavaScript**
-
-- 📄 Know about my experiences [resume](https://github.com/iankiplagat/iankiplagat/blob/master/Resume.pdf).
+- 💬 Ask me about **Python, Java, JavaScript, C, React, React Native, iOS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
